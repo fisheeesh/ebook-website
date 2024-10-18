@@ -17,6 +17,10 @@
     transition: all 0.5s ease-in-out;
 }
 
+.modal-dialog{
+    max-width: 1040px;
+}
+
 @media(max-width: 1000px){
     .hero .image-container{
         display: flex;
